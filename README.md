@@ -12,7 +12,6 @@ The original prototype described in the graduation project. It combines stepper-
 
 The following photographs show the stepper-motor components used in this prototype:
 
-![Stepper motor assembly](images/graduation-prototype/stepper-motor-assembly.jpg)
 
 ![Stepper motors and drivers](images/graduation-prototype/stepper-motors-and-drivers.jpg)
 
